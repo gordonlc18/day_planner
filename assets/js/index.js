@@ -27,7 +27,7 @@ $(document).ready(function() {
                 $(this).addClass("present");
             } else {
                 $(this).removeClass("present");
-                $(this).removeClass("past");
+                $(this).removeClass("past")
                 $(this).addClass("future");
             }
 
